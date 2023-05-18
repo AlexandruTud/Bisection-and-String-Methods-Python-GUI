@@ -1,2 +1,1 @@
-# Bisection-and-Secant-Methods-Python-GUI
-Python project with a GUI that visually demonstrates the Bisection and Secant methods for solving equations, providing an interactive and educational experience for users to explore and understand these numerical techniques.
+![Screenshot 2023-05-18 172046](https://github.com/AlexandruTud/Bisection-and-Secant-Methods-Python-GUI/assets/95827917/f8af3a9f-8291-4afb-8827-1ab1872c18e7)
