@@ -2,4 +2,4 @@
 
 After that, i used customtkinter for the graphic interface:
 
-![Screenshot 2023-05-21 222947](https://github.com/AlexandruTud/Bisection-and-Secant-Methods-Python-GUI/assets/95827917/b7a14503-f1f3-430d-a635-799eb7750926)
+![Screenshot 2023-05-21 225356](https://github.com/AlexandruTud/Bisection-and-Secant-Methods-Python-GUI/assets/95827917/ad7be422-70d0-4f6d-85af-69fcfee72615)
